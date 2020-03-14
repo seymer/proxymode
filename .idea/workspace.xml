@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc638322-a231-4bb2-9c28-811426b40482" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z72Ki5WZ0X1BeAzNTjziUTFWy0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.TicketServiceClient2">
+    <configuration name="TicketServiceClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketServiceClient" />
+      <module name="proxymode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketServiceClient1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketServiceClient1" />
+      <module name="proxymode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketServiceClient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketServiceClient2" />
+      <module name="proxymode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicketServiceClient2" />
+        <item itemvalue="Application.TicketServiceClient1" />
+        <item itemvalue="Application.TicketServiceClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc638322-a231-4bb2-9c28-811426b40482" name="Default Changelist" comment="" />
+      <created>1584175749809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584175749809</updated>
+      <workItem from="1584175753456" duration="7325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="203" key="#Project_Structure" timestamp="1584181806001">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="820" y="203" key="#Project_Structure/0.23.1920.1007@0.23.1920.1007" timestamp="1584175765986" />
+    <state x="820" y="203" key="#Project_Structure/0.23.1920.1008@0.23.1920.1008" timestamp="1584181806001" />
+    <state width="1400" height="253" key="GridCell.Tab.0.bottom" timestamp="1584192142643">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state width="1400" height="253" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1584192142643" />
+    <state width="1358" height="253" key="GridCell.Tab.0.bottom/0.23.1920.1008@0.23.1920.1008" timestamp="1584181940514" />
+    <state width="1400" height="253" key="GridCell.Tab.0.center" timestamp="1584192142642">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state width="1400" height="253" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1584192142642" />
+    <state width="1358" height="253" key="GridCell.Tab.0.center/0.23.1920.1008@0.23.1920.1008" timestamp="1584181940513" />
+    <state width="1400" height="253" key="GridCell.Tab.0.left" timestamp="1584192142642">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state width="1400" height="253" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1584192142642" />
+    <state width="1358" height="253" key="GridCell.Tab.0.left/0.23.1920.1008@0.23.1920.1008" timestamp="1584181940512" />
+    <state width="1400" height="253" key="GridCell.Tab.0.right" timestamp="1584192142643">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state width="1400" height="253" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1584192142643" />
+    <state width="1358" height="253" key="GridCell.Tab.0.right/0.23.1920.1008@0.23.1920.1008" timestamp="1584181940514" />
+    <state x="920" y="182" key="SettingsEditor" timestamp="1584191376790">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="920" y="182" key="SettingsEditor/0.23.1920.1006@0.23.1920.1006" timestamp="1584191376790" />
+    <state x="920" y="182" key="SettingsEditor/0.23.1920.1007@0.23.1920.1007" timestamp="1584187020877" />
+    <state x="674" y="257" key="new project wizard" timestamp="1584181212197">
+      <screen x="0" y="23" width="1920" height="1007" />
+    </state>
+    <state x="674" y="257" key="new project wizard/0.23.1920.1007@0.23.1920.1007" timestamp="1584181212197" />
+    <state x="1134" y="289" key="search.everywhere.popup" timestamp="1584192064893">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="1134" y="289" key="search.everywhere.popup/0.23.1920.1006@0.23.1920.1006" timestamp="1584192064893" />
+  </component>
+</project>
