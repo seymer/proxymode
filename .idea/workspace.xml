@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc638322-a231-4bb2-9c28-811426b40482" name="Default Changelist" comment="" />
+    <list default="true" id="fc638322-a231-4bb2-9c28-811426b40482" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TicketServiceGetTmpProxy0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicketServiceOtherGetTmpProxy0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/GeneralInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/GeneralInvocationHandler2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/TicketService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/TicketServiceClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/TicketServiceClient1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/TicketServiceClient2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/TicketStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/proxymode/TicketStationProxy.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -45,6 +61,18 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.TicketServiceClient2">
     <configuration name="TicketServiceClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TicketServiceClient" />
@@ -67,9 +95,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicketServiceGetTmpProxy0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketServiceGetTmpProxy0" />
+      <module name="proxymode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TicketServiceClient2" />
+        <item itemvalue="Application.TicketServiceGetTmpProxy0" />
         <item itemvalue="Application.TicketServiceClient1" />
         <item itemvalue="Application.TicketServiceClient" />
       </list>
@@ -86,11 +122,26 @@
       <option name="presentableId" value="Default" />
       <updated>1584175749809</updated>
       <workItem from="1584175753456" duration="7325000" />
+      <workItem from="1584276715413" duration="236000" />
+      <workItem from="1584280402837" duration="9211000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="820" y="203" key="#Project_Structure" timestamp="1584181806001">
